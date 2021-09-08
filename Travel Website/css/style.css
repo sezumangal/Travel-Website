@@ -538,7 +538,7 @@ h1 , h2, h3{
     }
 }
 
-@media(orientation: landscape) and (max-height : 500px{
+@media(orientation: landscape) and (max-height : 500px){
     .header{
         height: 90vmax;
     }
